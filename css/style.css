@@ -53,3 +53,35 @@ img{
     margin-left: 300px;
     margin-right: 300px;
 }
+.receipe-part{
+    margin: 30px;
+    padding: 45px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+}
+.counter-part{
+    margin-top: 50px;
+    margin: 10px;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+}
+.count{
+    margin-left: 170px;
+    width: 32%;
+}
+h6{
+    color: gray;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.grayer{
+    color: gray;
+}
+.foother-end{
+    color: white;
+}
